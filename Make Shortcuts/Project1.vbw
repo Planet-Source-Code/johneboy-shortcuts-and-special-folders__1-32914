@@ -1,0 +1,5 @@
+Form1 = 44, 44, 677, 455, , 22, 22, 697, 627, C
+ShortcutMaker = 66, 66, 699, 477, 
+RegRead = 110, 110, 635, 550, 
+RegWrite = 132, 132, 657, 572, 
+RegistryRoutines = 0, 0, 0, 0, C
